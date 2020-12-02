@@ -9,7 +9,7 @@ If you have any question, please, let me know.
 * Weighted probability - number 7 -> 3 times  
   
 | n_1 | n_2 | n_3 | result   | probability       |
-|-----|-----|-----|:--------:|:-----------------:|
+|:---:|:---:|:---:|:--------:|:-----------------:|
 | x   |  x  |  x  | bet * 50 | 1/1 * 1/10 * 1/10 | 
 | 7   |  ?  |  7  | bet / 2  | 1/10 * 1/1 * 1/10 |
 | x   |  x  |  $  | draw     | 1/1 * 1/10 * 1/1  |
