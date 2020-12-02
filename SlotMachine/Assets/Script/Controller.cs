@@ -147,6 +147,6 @@ public class Controller : MonoBehaviour
     private void update_wallet(int value)
     {
         this.wallet += value;
-        this.text_wallet.text = this.wallet.ToString("R$ 0.00");
+        this.text_wallet.text = this.wallet.ToString("$ 0.00");
     }
 }

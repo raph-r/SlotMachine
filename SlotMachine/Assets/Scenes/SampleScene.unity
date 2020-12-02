@@ -1206,7 +1206,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: R$ 1000.00
+  m_Text: $ 1000.00
 --- !u!222 &1970705830
 CanvasRenderer:
   m_ObjectHideFlags: 0
